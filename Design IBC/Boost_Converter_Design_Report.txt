@@ -1,0 +1,64 @@
+================================================================================
+           ADVANCED INTERLEAVED BOOST CONVERTER DESIGN REPORT
+================================================================================
+Generated on: 14-Oct-2025 20:56:09
+Design Tool Version: 3.0
+
+DESIGN SPECIFICATIONS:
+----------------------
+Input Voltage Range    : 24.0 - 24.0 V (nominal: 24.0 V)
+Output Voltage         : 48.0 V
+Maximum Output Power   : 100.0 W
+Switching Frequency    : 100 kHz
+Number of Phases       : 2 (interleaved)
+Target Efficiency      : 95.0%
+Nominal Duty Cycle     : 0.500
+
+COMPONENT DESIGN RESULTS:
+-------------------------
+Inductor:
+  Inductance           : 216 µH (2.16e-04 H)
+  Peak Current         : 2.22 A
+  RMS Current          : 2.08 A
+  Saturation Current   : 4.00 A (required)
+  Actual Ripple Ratio  : 13.3% (target: 20.0%)
+
+Output Capacitor:
+  Capacitance          : 47 µF
+  RMS Ripple Current   : 0.44 A
+  Voltage Rating       : 53 V minimum
+  Actual Voltage Ripple: 0.139% (target: 1.0%)
+
+LOSS ANALYSIS:
+--------------
+MOSFET Conduction Losses   : 0.22 W (7.0%)
+MOSFET Switching Losses    : 0.80 W (25.7%)
+Diode Losses (Total)       : 1.79 W (57.3%)
+Core Losses                : 0.25 W (8.0%)
+Other Losses               : 0.06 W (2.0%)
+TOTAL LOSSES               : 3.12 W
+ACHIEVED EFFICIENCY        : 96.98% (target: 95.0%)
+
+CONTROL SYSTEM PERFORMANCE:
+---------------------------
+Gain Margin                : Inf dB
+Phase Margin               : 59.7 degrees
+Crossover Frequency        : NaN Hz
+Closed-Loop Bandwidth      : 1668 Hz
+Step Response Settling Time: 2.36 ms
+Step Response Overshoot    : 0.0%
+
+SENSITIVITY ANALYSIS:
+--------------------
+Monte Carlo Efficiency Mean: 92.84% ± 0.12%
+Component Tolerance Impact : ±0.05% efficiency variation
+Design Robustness Rating   : Good
+
+DESIGN SUMMARY AND RECOMMENDATIONS:
+-----------------------------------
+✓ Efficiency target MET (96.98% achieved vs 95.0% target)
+✓ Phase margin ADEQUATE (59.7 degrees)
+✓ Current ripple specification MET
+
+End of Report
+================================================================================
