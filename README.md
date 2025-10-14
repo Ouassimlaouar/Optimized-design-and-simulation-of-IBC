@@ -143,7 +143,7 @@ The suite enables power electronics engineers and researchers to:
 - Quantify the impact of parameter variations and tolerances on converter behavior.
 - Generate documentation-ready plots and reports for professional or academic purposes.
 
-For additional details on the methodology and applied modeling techniques, please refer to my LinkedIn post: [Mathematical Modeling and Simulation of PV Systems](https://www.linkedin.com/posts/ouassim-laouar_mathematical-modeling-and-simulation-of-pv-activity-7360639178742611969-m4Kx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD68_YkBN31).
+For more information about the methodology and modeling techniques, check out my LinkedIn post: [Following the Successful Defense of My Master's Thesis](https://www.linkedin.com/posts/ouassim-laouar_following-the-successful-defense-of-my-master-activity-7343687446292836352-GdkX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD68_YkBN31cfxF69QvX0zp9QwzhsBD6qPo).
 
 
 
