@@ -1,6 +1,6 @@
 # Interleaved Two-Phase DC-DC Boost Converter Design and Analysis
 
-This Jupyter notebook implements an **advanced interleaved two-phase DC-DC boost converter design**. The code performs a comprehensive multi-domain analysis, including electrical sizing, power loss estimation, thermal assessment, and cost evaluation, considering realistic component characteristics and temperature dependencies.
+This code implements an **advanced interleaved two-phase DC-DC boost converter design**. The code performs a comprehensive multi-domain analysis, including electrical sizing, power loss estimation, thermal assessment, and cost evaluation, considering realistic component characteristics and temperature dependencies.
 
 ### Key Features:
 
